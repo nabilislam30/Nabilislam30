@@ -8,13 +8,13 @@ I work primarily with AWS and modern DevOps practices to build secure, scalable,
 ![Profile Views](https://komarev.com/ghpvc/?username=nabilislam30&color=blue) 
 
 ### 🚧 What I’m Working On
-- Threat Composer ECS Project
-- EKS project - Cloud Native Adventures (Production Grade EKS Cluster with Ingress and SSL)
+- 🚀 Threat Composer ECS Project
+- ☁️ EKS project - Cloud Native Adventures (Production Grade EKS Cluster with Ingress and SSL)
 ---
 
 ### 📈 Currently Learning
-- Kubernetes fundamentals
-- Monitoring & observability (logs, metrics, alerts)
+- ☸️ Kubernetes fundamentals
+- 📊 Monitoring & observability (logs, metrics, alerts)
 
 ---
 <h3 align="center">🛠️ Tech Stack</h3>
