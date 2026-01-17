@@ -6,7 +6,16 @@
 
 I am continuously developing my skills across automation, observability, security and platform reliability.
 
-![Profile Views](https://komarev.com/ghpvc/?username=nabilislam30&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=nabilislam30&color=blue) 
+
+### 🚧 What I’m Working On
+- Threat Composer ECS Project
+- EKS project - Cloud Native Adventures (Production Grade EKS Cluster with Ingress and SSL)
+---
+
+### 📈 Currently Learning
+- Kubernetes fundamentals
+- Monitoring & observability (logs, metrics, alerts)
 
 ---
 <h3 align="center">🛠️ Tech Stack</h3>
