@@ -1,10 +1,9 @@
 
-<h1 align="center">Hey, I'm Nabil 👋</h1>
+<h1 align="center"> Hey, I'm Nabil 👋</h1>
 
-<p align="center">
-  DevOps Engineer with hands-on experience designing CI/CD pipelines, provisioning cloud infrastructure with Terraform, and deploying containerised applications using Docker. I work primarily with AWS and modern DevOps practices to build secure, scalable, and repeatable environments.
-
-I am continuously developing my skills across automation, observability, security and platform reliability.
+DevOps Engineer with hands-on experience designing CI/CD pipelines, provisioning cloud infrastructure with Terraform, and deploying containerised applications using Docker. 
+I work primarily with AWS and modern DevOps practices to build secure, scalable, and repeatable environments. I am continuously developing my skills across automation, observability, security and platform   reliability.
+  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nabilislam30&color=blue) 
 
