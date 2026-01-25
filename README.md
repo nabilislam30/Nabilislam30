@@ -9,6 +9,7 @@ I work primarily with AWS and modern DevOps practices to build secure, scalable,
 
 ### 🚧 What I’m Working On
 - 🚀 Threat Composer ECS Project
+- 🔗 URL-shortener on AWS
 - ☁️ EKS project - Cloud Native Adventures (Production Grade EKS Cluster with Ingress and SSL)
 ---
 
