@@ -1,6 +1,13 @@
 
 <h1 align="center"> Hey, I'm Nabil 👋</h1>
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Building+scalable+cloud+infrastructure;Creating+reliable+CI%2FCD+delivery+pipelines;Turning+manual+workflows+into+automation"
+    alt="Typing SVG"
+  />
+</p>
+
 DevOps Engineer with hands-on experience designing CI/CD pipelines, provisioning cloud infrastructure with Terraform, and deploying containerised applications using Docker. 
 I work primarily with AWS and modern DevOps practices to build secure, scalable, and repeatable environments. I am continuously developing my skills across automation, observability, security and platform   reliability.
   
