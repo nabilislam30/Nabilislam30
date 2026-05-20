@@ -8,6 +8,13 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Nabilislam30/Nabilislam30/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
+
 DevOps Engineer with hands-on experience designing CI/CD pipelines, provisioning cloud infrastructure with Terraform, and deploying containerised applications using Docker. 
 I work primarily with AWS and modern DevOps practices to build secure, scalable, and repeatable environments. I am continuously developing my skills across automation, observability, security and platform   reliability.
   
