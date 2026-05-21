@@ -18,8 +18,7 @@
 DevOps Engineer with hands-on experience designing CI/CD pipelines, provisioning cloud infrastructure with Terraform, and deploying containerised applications using Docker. 
 I work primarily with AWS and modern DevOps practices to build secure, scalable, and repeatable environments. I am continuously developing my skills across automation, observability, security and platform   reliability.
   
-
-![Profile Views](https://komarev.com/ghpvc/?username=nabilislam30&color=blue) 
+---
 
 ### 🚧 What I’m Working On
 - 🚀 Threat Composer ECS Project
@@ -78,4 +77,8 @@ I work primarily with AWS and modern DevOps practices to build secure, scalable,
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Plan+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Monitor;Code+%E2%86%92+Containerise+%E2%86%92+Automate+%E2%86%92+Ship"
     alt="Animated DevOps lifecycle"
   />
+</p>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=nabilislam30&color=brightgreen&style=flat" alt="Profile views" />
 </p>
