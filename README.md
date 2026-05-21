@@ -3,8 +3,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Building+scalable+cloud+infrastructure;Creating+reliable+CI%2FCD+delivery+pipelines;Turning+manual+workflows+into+automation"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=%24+terraform+apply;%24+docker+build+-t+app+.;%24+kubectl+get+pods;%24+git+push+origin+main"
+    alt="Animated terminal commands"
   />
 </p>
 
@@ -69,4 +69,13 @@ I work primarily with AWS and modern DevOps practices to build secure, scalable,
   <a href="https://www.tiktok.com/@devwithnabil">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Plan+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Monitor;Code+%E2%86%92+Containerise+%E2%86%92+Automate+%E2%86%92+Ship"
+    alt="Animated DevOps lifecycle"
+  />
 </p>
